@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on [Ahens – A student platform](https://ahensedu.vercel.app/)
 - 👯 I’m looking to collaborate on **PexelCloud – A web/app development & hosting service**
 - 🤝 I’m looking for help with [Open-source full-stack web projects](https://github.com/ChaitanyaDeepChellu)
-- 👨‍💻 All of my projects are available at [https://chellu-portfolio.vercel.app/](https://chaitanyadeepchellu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://chaitanyadeepchellu.vercel.app/](https://chaitanyadeepchellu.vercel.app/)
 - 📫 How to reach me **chaitanyadeepchellu5510@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
